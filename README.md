@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Computer & Software Engineer | Computer Engineering Major at the Marmara University | Love Programming
+
 <!--
 **ErtungaYusuf/ErtungaYusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
